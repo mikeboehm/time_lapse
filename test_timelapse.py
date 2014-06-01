@@ -12,6 +12,8 @@ class TestTimelapse(unittest.TestCase):
 
 	def setUp(self):
 		self.timelapse = Timelapse()
+
+	def test
 	
 if __name__ == '__main__':
 	unittest.main()
